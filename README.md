@@ -1,4 +1,4 @@
-- 👋 Hi, I’m M Wesley
+- 👋 Hi, I’m Maurice Wesley
 - 👀 I’m interested in software development
 - 🌱 I’m currently an undergraduate pursuing a Computer Science degree
 - 💞️ I’m looking to collaborate on anything that will aid my personal development
